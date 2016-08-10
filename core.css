@@ -1,9 +1,9 @@
 /*
-Title: bydcore css by bydcode S.C.
+Title: bydcore
 Description: bydcore CSS is the property of bydcode as an Core Cascade Style Sheet code for templates/themes made for commercial use.
 Time/Date Created: 13:12 GMT+1 / Saturday 14, November, 2015
 Version: 0.1.1
-Revision: 12
+Revision: 13
 */
 
 /* Full/Boxed Core */
@@ -64,9 +64,9 @@ a:hover {
   padding: 50px 0; /* Padding top/bottom may be adjusted to clients needs */
 }
 
-/* Boxed Width Core - 1024px(can be adjusted to clients needs, minimal width = 960px) */
+/* Boxed Width Core - 1070px */
 .rowb {
-  width: 1024px;
+  width: 1070px;
   min-width: 960px;
   margin-left: auto;
   margin-right: auto;
